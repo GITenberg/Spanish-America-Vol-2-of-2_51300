@@ -1,0 +1,29 @@
+_repo: Spanish-America-Vol-2-of-2_51300
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bonnycastle, Richard Henry, Sir
+    aliases:
+    - Bonnycastle, R. H. (Richard Henry), Sir
+    - Bonnycastle, Sir Richard Henry
+    birthdate: 1791
+    deathdate: 1847
+    gutenberg_agent_id: '9029'
+    url: http://www.gutenberg.org/2009/agents/9029
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Henry_Bonnycastle
+description: ''
+gutenberg_issued: '2016-02-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51300'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F1401'
+- !lcsh 'Latin America -- Description and travel'
+- !lcsh 'Latin America -- History'
+- GITenberg
+title: Spanish America, Vol. 2 (of 2)
+url: http://www.gutenberg.org/ebooks/51300
